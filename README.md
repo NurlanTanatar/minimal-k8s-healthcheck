@@ -1,0 +1,1 @@
+# minimal-k8s-healthcheck
